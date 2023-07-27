@@ -18,7 +18,7 @@ jobs:
     runs-on:
     - Windows
     - self-hosted
-    - X64
+    
     
 
     steps:
